@@ -1,0 +1,2 @@
+# QR-CODE-BASED-PAYMENT-SYSTEM
+School purposes
